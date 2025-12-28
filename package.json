@@ -1,0 +1,15 @@
+{
+  "name": "user-management-service",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "main": "src/server.js",
+  "packages": {},
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  }
+}
